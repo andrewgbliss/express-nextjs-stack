@@ -1,0 +1,10 @@
+./db
+./nginx
+.dockerignore
+docker-compose.yml
+Dockerfile
+.env
+sample.env
+README.md
+log
+tmp
